@@ -1,0 +1,12 @@
+{
+  "id": "wled",
+  "name": "WLED",
+  "version": "1.0.0",
+  "sdkVersion": "1.33",
+  "entryAssembly": "LoupixDeck.Plugin.WLED.dll",
+  "platform": "All",
+  "author": "RadiatorTwo",
+  "description": "Controls WLED LED controllers over the JSON API.",
+  "projectUrl": "https://github.com/RadiatorTwo/LoupixDeck.Plugin.WLED",
+  "iconFile": ""
+}
